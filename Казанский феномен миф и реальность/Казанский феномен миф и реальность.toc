@@ -1,0 +1,5 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Несколько слов вместо напутствия}{2}{section*.1}%
+\contentsline {section}{Вчера это было в наших силах}{3}{section*.2}%
+\contentsline {subsection}{Предыстория}{3}{subsection*.3}%
+\contentsline {section}{Словарь казанских подростков}{6}{section*.4}%
