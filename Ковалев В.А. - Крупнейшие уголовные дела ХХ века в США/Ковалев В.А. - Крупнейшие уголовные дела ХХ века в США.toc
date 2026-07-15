@@ -1,3 +1,4 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{Вместо предисловия}{2}{section*.1}%
-\contentsline {section}{Поражение сыскного агенства Пинкертона}{6}{section*.2}%
+\contentsline {section}{Поражение сыскного агенства Пинкертона}{5}{section*.2}%
+\contentsline {section}{Досье № 2573 из личного архива президента}{12}{section*.3}%
